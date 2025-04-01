@@ -138,13 +138,14 @@ const PowerRankings = () => {
       .attr("stroke", "black")
       .attr("stroke-width", 1.5);
 
-    groupsEnter.append("image")
-      .attr("xlink:href", d => d.logo)
+      groupsEnter.append("image")
+      .attr("href", d => d.logo) // ← changed from xlink:href
       .attr("x", 0)
       .attr("y", 0)
       .attr("height", radius * 2)
       .attr("width", radius * 2)
       .style("clip-path", "circle(50%)");
+    
 
     // Hover event
     groupsEnter
