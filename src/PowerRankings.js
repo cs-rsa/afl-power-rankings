@@ -4,7 +4,7 @@ import "./PowerRankings.css";
 
 const powerRankingsByWeek = {
   1: [
-    { name: "Geelong Cats", logo: "/logos/geelong.png", value: 99 },
+    { name: "Geelong Cats", logo: "/logos/Geelong.png", value: 99 },
     { name: "Hawthorn Hawks", logo: "/logos/hawthorn.png", value: 96 },
     { name: "GWS Giants", logo: "/logos/giants.png", value: 95 },
     { name: "Brisbane Lions", logo: "/logos/brisbane.png", value: 90 },
