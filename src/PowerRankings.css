@@ -1,0 +1,41 @@
+.power-rankings-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #rankings-table {
+    width: 100%;
+    max-width: 400px;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  #ladder {
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  
+  .ladder-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .team-logo img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .rank-number {
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+  }
+  
+  #vis {
+    width: 100%;
+    max-width: 600px;
+  }
+  
