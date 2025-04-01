@@ -44,9 +44,9 @@ const powerRankingsByWeek = {
     { name: "Western Bulldogs", logo: "/logos/bulldogs.png", value: 73 }
   ],
   3: [
-    { name: "Adelaide Crows", logo: "/logos/adelaide.png", value: 80 },
-    { name: "Brisbane Lions", logo: "/logos/brisbane.png", value: 94 },
-    { name: "Carlton Blues", logo: "/logos/carlton.png", value: 65 },
+    { name: "Adelaide Crows", logo: "/logos/Adelaide.png", value: 80 },
+    { name: "Brisbane Lions", logo: "/logos/Brisbane.png", value: 94 },
+    { name: "Carlton Blues", logo: "/logos/Carlton.png", value: 65 },
     { name: "Collingwood Magpies", logo: "/logos/collingwood.png", value: 87 },
     { name: "Essendon Bombers", logo: "/logos/essendon.png", value: 62 },
     { name: "Fremantle Dockers", logo: "/logos/fremantle.png", value: 70 },
