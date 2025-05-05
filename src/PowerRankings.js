@@ -142,6 +142,26 @@ const powerRankingsByWeek = {
     { name: "Sydney Swans", logo: "/logos/Sydney.png", value: 69 },
     { name: "West Coast Eagles", logo: "/logos/WestCoast.png", value: 22 },
     { name: "Western Bulldogs", logo: "/logos/Bulldogs.png", value: 78 }
+  ],
+  8: [
+    { name: "Adelaide Crows", logo: "/logos/Adelaide.png", value: 88 },
+    { name: "Brisbane Lions", logo: "/logos/Brisbane.png", value: 89 },
+    { name: "Carlton Blues", logo: "/logos/Carlton.png", value: 70 },
+    { name: "Collingwood Magpies", logo: "/logos/Collingwood.png", value: 94 },
+    { name: "Essendon Bombers", logo: "/logos/Essendon.png", value: 54 },
+    { name: "Fremantle Dockers", logo: "/logos/Fremantle.png", value: 67 },
+    { name: "Geelong Cats", logo: "/logos/Geelong.png", value: 96 },
+    { name: "Gold Coast Suns", logo: "/logos/GoldCoast.png", value: 79 },
+    { name: "GWS Giants", logo: "/logos/Giants.png", value: 73 },
+    { name: "Hawthorn Hawks", logo: "/logos/Hawthorn.png", value: 93 },
+    { name: "Melbourne Demons", logo: "/logos/Melbourne.png", value: 60 },
+    { name: "North Melbourne Kangaroos", logo: "/logos/NorthMelbourne.png", value: 40 },
+    { name: "Port Adelaide Power", logo: "/logos/PortAdelaide.png", value: 69 },
+    { name: "Richmond Tigers", logo: "/logos/Richmond.png", value: 24 },
+    { name: "St Kilda Saints", logo: "/logos/StKilda.png", value: 65 },
+    { name: "Sydney Swans", logo: "/logos/Sydney.png", value: 72 },
+    { name: "West Coast Eagles", logo: "/logos/WestCoast.png", value: 22 },
+    { name: "Western Bulldogs", logo: "/logos/Bulldogs.png", value: 85 }
   ]
 };
 
