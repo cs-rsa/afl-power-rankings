@@ -124,12 +124,12 @@ const powerRankingsByWeek = {
     { name: "Western Bulldogs", logo: "/logos/Bulldogs.png", value: 76 }
   ],
   7: [
-    { name: "Adelaide Crows", logo: "/logos/Adelaide.png", value: 88 },
+    { name: "Adelaide Crows", logo: "/logos/Adelaide.png", value: 80 },
     { name: "Brisbane Lions", logo: "/logos/Brisbane.png", value: 86 },
     { name: "Carlton Blues", logo: "/logos/Carlton.png", value: 74 },
     { name: "Collingwood Magpies", logo: "/logos/Collingwood.png", value: 96 },
     { name: "Essendon Bombers", logo: "/logos/Essendon.png", value: 60 },
-    { name: "Fremantle Dockers", logo: "/logos/Fremantle.png", value: 69 },
+    { name: "Fremantle Dockers", logo: "/logos/Fremantle.png", value: 77 },
     { name: "Geelong Cats", logo: "/logos/Geelong.png", value: 93 },
     { name: "Gold Coast Suns", logo: "/logos/GoldCoast.png", value: 80 },
     { name: "GWS Giants", logo: "/logos/Giants.png", value: 74 },
@@ -144,12 +144,12 @@ const powerRankingsByWeek = {
     { name: "Western Bulldogs", logo: "/logos/Bulldogs.png", value: 78 }
   ],
   8: [
-    { name: "Adelaide Crows", logo: "/logos/Adelaide.png", value: 88 },
+    { name: "Adelaide Crows", logo: "/logos/Adelaide.png", value: 81 },
     { name: "Brisbane Lions", logo: "/logos/Brisbane.png", value: 89 },
     { name: "Carlton Blues", logo: "/logos/Carlton.png", value: 70 },
     { name: "Collingwood Magpies", logo: "/logos/Collingwood.png", value: 94 },
     { name: "Essendon Bombers", logo: "/logos/Essendon.png", value: 54 },
-    { name: "Fremantle Dockers", logo: "/logos/Fremantle.png", value: 67 },
+    { name: "Fremantle Dockers", logo: "/logos/Fremantle.png", value: 75 },
     { name: "Geelong Cats", logo: "/logos/Geelong.png", value: 96 },
     { name: "Gold Coast Suns", logo: "/logos/GoldCoast.png", value: 79 },
     { name: "GWS Giants", logo: "/logos/Giants.png", value: 73 },
