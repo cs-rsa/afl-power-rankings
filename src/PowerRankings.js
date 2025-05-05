@@ -161,7 +161,7 @@ const powerRankingsByWeek = {
     { name: "St Kilda Saints", logo: "/logos/StKilda.png", value: 65 },
     { name: "Sydney Swans", logo: "/logos/Sydney.png", value: 72 },
     { name: "West Coast Eagles", logo: "/logos/WestCoast.png", value: 22 },
-    { name: "Western Bulldogs", logo: "/logos/Bulldogs.png", value: 85 }
+    { name: "Western Bulldogs", logo: "/logos/Bulldogs.png", value: 87 }
   ]
 };
 
